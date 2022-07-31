@@ -16,7 +16,7 @@ The webapp has:
 -user profile area with data and photo
 -the creation, editing and removal of phone numbers by the user
 -area and features to see phone numbers
-- area for searching phone numbers
+-area for searching phone numbers
 -filter function when searching for phone numbers
 -favorite phone numbers
 - pdf generation with list of favorite phone numbers
