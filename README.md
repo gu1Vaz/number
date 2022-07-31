@@ -12,6 +12,7 @@ Raphael: documentation
 Juan: UI designer (Figma)
 
 The webapp has:
+
 -user registration and login
 -user profile area with data and photo
 -the creation, editing and removal of phone numbers by the user
