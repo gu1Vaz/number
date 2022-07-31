@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    
+}
+
+.divGeral{
+     width: 100%;
+     height:100vh;
+
+}
+
+.divFormulario{
+    width: 33%;
+     height:85%;
+     border-radius: 10px;
+}
+.botoesNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 32.7% !important;
+}

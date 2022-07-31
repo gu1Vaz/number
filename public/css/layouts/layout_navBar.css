@@ -1,0 +1,101 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-right: 0;
+
+}
+.Nav{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.carregar{
+    height: 100vh;
+    background-color: white;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+        left: 0;
+        top:0;
+}
+.divCarregar{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    height:46%;
+}
+.divCima{
+    align-items: center;
+    justify-content: flex-end;
+}
+.divBaixo{
+    align-items: center;
+    justify-content: flex-start;
+}
+.carregar img{
+    height:66px;
+    width: 66px;
+}
+.botoesNav{
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    color:#56CCF2;
+}
+.logo{
+   display: flex;
+   justify-content: flex-start;
+   width: 20%;
+}
+
+body {
+    background-color: white;
+    font-family: 'Nunito';
+
+}
+
+.barraBusca input,select{
+    height: 38px;
+}
+.w-10 {
+    width: 10% !important;
+  }
+.w-85 {
+    width: 80% !important;
+  }
+#fundoOpaco{
+    background:black;
+    opacity:0.5;
+    position: absolute;
+        width: 100%;
+        left: 0;
+        top:0;
+}
+.w-5 {
+    width: 5% !important;
+  }
+.child {
+    pointer-events:none;
+}
+h3,h4,h6{
+    color: #737373;
+    letter-spacing: 0.5px;
+    margin:0;
+  }
+h5{
+    color: #737373;
+    letter-spacing: 0.5px;
+}
+sNb1{
+    color: #2F80ED;
+
+}
+sNb2{
+  color:#56CCF2;
+}
+spanCard{
+    font-size: 16px;
+    color: #737373;
+ }
