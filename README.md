@@ -7,10 +7,10 @@ The project contain:
 
 This was a project developed in college together with some friends, their roles in the project:
 
-Me: fullstack programmer
-Ana: spokesperson and presenter of the group and the project
-Raphael: documentation
-Juan: UI designer (Figma)
+- Me: fullstack programmer
+- Ana: spokesperson and presenter of the group and the project
+- Raphael: documentation
+- Juan: UI designer (Figma)
 
 The webapp has:
 
