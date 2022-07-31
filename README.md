@@ -26,6 +26,6 @@ The webapp has:
 - user feedback area 
 - user doubts area 
 
-The project is online on the college server and can be accessed through the link: http://terceiro.cefetvga.pro.br/number/public/
+The project is online on the college server and can be accessed through the link: https://terceiro.cefetvga.pro.br/number/public/
 
 Created by **Guilherme Vaz**, aka **zorya** or **none gui** and friends.
